@@ -19,11 +19,6 @@ h1 {
     font-size: 2em;
 }
 
-#container {
-  margin: 20px auto;
-  max-width: 600px;
-}
-
 #stripe {
     background-color: white;
     height: 30px;
@@ -61,9 +56,13 @@ h1 {
     color: #232323
 }
 
+#container {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+
 .square {
     width: 30%;
-    background: purple;
     padding-bottom: 30%;
     float: left;
     margin: 1.66%;
